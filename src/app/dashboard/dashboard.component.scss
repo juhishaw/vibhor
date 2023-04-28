@@ -1,0 +1,11 @@
+.components {
+   height: calc(100vh - 140px);
+    overflow-y: auto;
+    overflow-x: hidden;
+    display: block;
+}
+
+app-header, app-footer {
+    height: 60px;
+    display: block;
+}
